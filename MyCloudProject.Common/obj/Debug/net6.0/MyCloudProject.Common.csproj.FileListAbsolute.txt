@@ -1,0 +1,12 @@
+C:\Work and files\Cloud Computing Project\cc repo\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\net6.0\MyCloudProject.Common.deps.json
+C:\Work and files\Cloud Computing Project\cc repo\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\net6.0\MyCloudProject.Common.dll
+C:\Work and files\Cloud Computing Project\cc repo\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\net6.0\MyCloudProject.Common.pdb
+C:\Work and files\Cloud Computing Project\cc repo\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\MyCloudProject.Common.csproj.AssemblyReference.cache
+C:\Work and files\Cloud Computing Project\cc repo\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\MyCloudProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work and files\Cloud Computing Project\cc repo\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\MyCloudProject.Common.AssemblyInfoInputs.cache
+C:\Work and files\Cloud Computing Project\cc repo\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\MyCloudProject.Common.AssemblyInfo.cs
+C:\Work and files\Cloud Computing Project\cc repo\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\MyCloudProject.Common.csproj.CoreCompileInputs.cache
+C:\Work and files\Cloud Computing Project\cc repo\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\MyCloudProject.Common.dll
+C:\Work and files\Cloud Computing Project\cc repo\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\refint\MyCloudProject.Common.dll
+C:\Work and files\Cloud Computing Project\cc repo\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\MyCloudProject.Common.pdb
+C:\Work and files\Cloud Computing Project\cc repo\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\ref\MyCloudProject.Common.dll
